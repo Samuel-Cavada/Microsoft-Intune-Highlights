@@ -5,3 +5,12 @@
 </p>
 
 # Microsoft-Intune-Highlights
+
+
+→ Viewed information about each company device, including hardware and software installed on it, ensuring accurate inventory management.
+
+
+→ Verified device compliance, guiding and assisting in the mass implementation of Intune on employee phones to ensure compliance with company data security policies.
+
+
+→ Retrieved recovery keys like BitLocker to help unlock locked devices, ensuring minimal disruption and maintaining productivity.
