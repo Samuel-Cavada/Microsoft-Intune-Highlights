@@ -14,3 +14,7 @@
 
 
 → Retrieved recovery keys like BitLocker to help unlock locked devices, ensuring minimal disruption and maintaining productivity.
+
+➜ Deployed and managed endpoint configurations through Microsoft Intune, ensuring compliance with organizational security policies across all devices.
+
+➜ Enforced mobile device management (MDM) policies via Intune to secure remote workforce endpoints.
