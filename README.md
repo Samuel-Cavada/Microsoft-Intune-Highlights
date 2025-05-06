@@ -6,15 +6,8 @@
 
 # Microsoft-Intune-Highlights
 
-
-→ Viewed information about each company device, including hardware and software installed on it, ensuring accurate inventory management.
-
-
-→ Verified device compliance, guiding and assisting in the mass implementation of Intune on employee phones to ensure compliance with company data security policies.
-
-
-→ Retrieved recovery keys like BitLocker to help unlock locked devices, ensuring minimal disruption and maintaining productivity.
-
-➜ Deployed and managed endpoint configurations through Microsoft Intune, ensuring compliance with organizational security policies across all devices.
-
-➜ Enforced mobile device management (MDM) policies via Intune to secure remote workforce endpoints.
+➜ Deployed and managed endpoint configurations through Microsoft Intune, ensuring compliance with organizational security policies across all devices.  
+➜ Enforced mobile device management (MDM) policies via Intune to secure remote workforce endpoints.  
+➜ Verified device compliance and assisted in the mass rollout of Intune on employee phones to meet company security standards.  
+➜ Viewed detailed hardware and software data for each device, supporting accurate asset inventory and lifecycle management.  
+➜ Retrieved BitLocker recovery keys to unlock encrypted devices, minimizing downtime and maintaining employee productivity.
