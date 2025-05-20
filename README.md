@@ -5,7 +5,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Microsoft-Intune-Highlights/main/images/Microsoft%20Intune%20Highlights.png" alt="Microsoft Intune Highlights" width="600">
+</p>
 
 > This section summarizes practical experience using Microsoft Intune for endpoint management and mobile device security.
 
